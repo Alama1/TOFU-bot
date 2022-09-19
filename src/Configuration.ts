@@ -30,7 +30,6 @@ class Configuration {
             if (process.env.NODE_ENV === 'production') {
                 this.properties = require('../configProd.json')
                 this.properties.discord.token = process.env.TOKEN
-                this.properties.express.port = process.env.PORT
             } else {
                 require('dotenv').config();
                 this.properties = require('../configDev.json')
