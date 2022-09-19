@@ -23,6 +23,10 @@ class Configuration {
         DISCORD_COMMAND_ROLE: val => (this.properties.discord.commandRole = val),
         DISCORD_OWNER_ID: val => (this.properties.discord.ownerId = val),
         DISCORD_PREFIX: val => (this.properties.discord.prefix = val),
+        MESSAGE_MODE: val => (this.properties.discord.messageMode = val),
+        EXPRESS_ENABLED: val => (this.properties.express.enabled = val),
+        EXPRESS_PORT: val => (this.properties.express.enabled = val),
+        EXPRESS_AUTHORIZATION: val => (this.properties.express.authorization = val)
     }
 
     constructor() {
@@ -47,6 +51,10 @@ class Configuration {
 
     get discord() {
         return this.properties.discord
+    }
+
+    get express() {
+        return this.properties.express
     }
 }
 export {}
