@@ -6,5 +6,8 @@
     "prefix": "!",
     "messageMode": "bot",
     "guildID": "678539191612866560"
+  },
+  "express": {
+    "port": "3000"
   }
 }

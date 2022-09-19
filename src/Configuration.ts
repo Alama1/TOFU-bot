@@ -23,6 +23,7 @@ class Configuration {
         DISCORD_COMMAND_ROLE: val => (this.properties.discord.commandRole = val),
         DISCORD_OWNER_ID: val => (this.properties.discord.ownerId = val),
         DISCORD_PREFIX: val => (this.properties.discord.prefix = val),
+        EXPRESS_PORT: val => (this.properties.express.enabled = val),
     }
 
     constructor() {
