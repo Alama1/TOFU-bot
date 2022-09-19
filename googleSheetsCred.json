@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tna-activity",
+  "private_key_id": "c916b3e2c709803c2650de32313d85fb2d7729d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8JDWo2BmvpcgJ\nlt7eV6G6h+Hflrrso2vaLXBL6bwEJj6AzcK9fvLfG7noLpHpvfL+FsmAsLZxX//S\nGyPLTatpnpkrA6EONXtfupmKBH4WFR7UXyoBf09Jd98zFbKROvBKyc8QDCetCnlF\nlzPBOa0khLd/doR0/tBm5Hz/zPJIS/y29DHtHRYBizYh5vgjsi/cKfYInuyL6Yx5\nTdvK3BKLWyVb7O7byFDrBh90Ur7V9PLdwLNy9eri8kJDPjNN6PqaNiBMxq/JWB4c\npIssBmmwBFEFdjnyvsI50Y48pX/XwNJzgGXljxLgvUhqXBQ2wz9f+gcTwiuV+/ty\naSIFIEolAgMBAAECggEAI068Tzp235LCDqKkop9Zd5MGnZpA7CXjGKfMWkK8CR9Q\nPYXf1QYc+CfQ5LTQp0gBcRO/rwn6wx4b+UckmYOy9nhQEFV3BR6eT6HKLK+ZJfXC\numI9lNhafdQkLAcXYs/nxnFHDaDqVTwQ9DFjAhEb4C2T7jTEuNwVKioZFzxT/6MH\n1mTMpopcBcZigxpf7sP+tpnVsQWrF9Mat2ahChkAmYL5h1UhDk9N82trBsZ7nB4T\n+dxVQSyCm9qemo2SrBKHQckD4q9D8bh8sOcg3zqIlNFJ7I+0WvDtonRMvw7UN+G3\ncYVXpzOYfBNfmfpjha5U6GIVqR5BYoKBi1idwBU9RQKBgQD8Tknhe765z8oVvFnY\n3vT3n6RfA5RdpGLTUCDiWsMT8LRAfpAFsxXqdL6g0i9k6gL6/fSJRTU6K0SpTVZ7\nOE0UmUYRxvlGSdKZTzp5K5XwP9NC45v75QqBTvldlwYbmqeDQxG3mEtxZX35pDkS\n8f7ICZHUrnvvP4BIRDqr39VCfwKBgQC+5WpUNAcH3wc+y/uVw4COQEx34kXwrn1o\naPyCMjb0BQDKtwzZb0r3cTFb/mDUcf+UQZ7D985OwYTKiZ+XaaeRkp04mG2sFat5\n6H9+Sw02iFGNZXy5Q1vHdKOg9KThge83GgT1mgYL70V5v78wJFIDwmonDCByULLw\n5ijG7wzZWwKBgQCIsxIsbRNlMUPYivhTHFm1YHV6VUIpiktRGnT2rx5Ky3ueBfSa\nYfFZ2m7+S2MKVg/PVZEMXsb8AT1uTUyx7ks1AeaI8zlT7+N+1QJlbEwMo0gfUZrN\n28bZUKSjJJRWmHByGgCbbJRTmB2tCGEz9pGIaEbu6KqVcd5bSTxQqzGsmQKBgD34\nRbM+DIY+naCCIZL1m1cSgoBsgR3n1yg85LPzTymaMi6ci9xOJ7z6Dvb5Nj/hHgHn\n531ghaXFZrFFSfyiPNaiDM3hlcDGbBswIatC+/AXArpvFrUhq7qtH61RnfDi+GAf\n3zpHnOzk6N3kJFGhiMpVo5Y3dpUFo4FWhihGVBp/AoGBALRz4E9bOJsZoXTfz/Wl\nl0nVY0653FXGSX9ubqZ9wwXGLI90pP7Dz0x1tBRdu8zsV1UdLqgwOBrHHc1FbEn9\nS5pMWRW1dkou6Q9Oy9lViFDp97KUbYbSkQ1CzpZ9LzH3HlyN1XV7Oo+S/hUk0TvC\nZqCs7YQ01ydte7/N1j46sEtd\n-----END PRIVATE KEY-----\n",
+  "client_email": "tna-activity@tna-activity.iam.gserviceaccount.com",
+  "client_id": "106796915422471665022",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tna-activity%40tna-activity.iam.gserviceaccount.com"
+}
