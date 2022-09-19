@@ -1,6 +1,5 @@
 const fetch = require('node-fetch')
 const { EmbedBuilder } = require('discord.js')
-const minecraftManager = require('../../minecraft/minecraftManager')
 const fs = require('fs');
 export {}
 
