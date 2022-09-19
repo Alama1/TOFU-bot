@@ -23,7 +23,6 @@ class Configuration {
         DISCORD_COMMAND_ROLE: val => (this.properties.discord.commandRole = val),
         DISCORD_OWNER_ID: val => (this.properties.discord.ownerId = val),
         DISCORD_PREFIX: val => (this.properties.discord.prefix = val),
-        EXPRESS_PORT: val => (this.properties.express.enabled = val),
     }
 
     constructor() {
@@ -31,6 +30,7 @@ class Configuration {
             if (process.env.NODE_ENV === 'production') {
                 this.properties = require('../configProd.json')
                 this.properties.discord.token = process.env.TOKEN
+                this.properties.express.port = process.env.PORT
             } else {
                 require('dotenv').config();
                 this.properties = require('../configDev.json')
