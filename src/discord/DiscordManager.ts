@@ -36,7 +36,7 @@ class DiscordManager  {
             setInterval(() => {
                 this.stateHandler.checkingWaitLists()
                 console.log('Checking for waiters...')
-            }, 600000)
+            }, 60000)
         })
 
         this.client.on('interactionCreate', interaction => {
